@@ -37,11 +37,6 @@
 - 🎨 Most Creative Tool
 - 📚 Most Educational Tool
 
-### Rewards
-- ⭐ Mark in GitHub repo
-- Priority presentation next week
-- Record in team wiki
-
 ## 💬 Google Meet Chat Sharing Format
 
 For those who can't attend:
@@ -172,4 +167,4 @@ Last Friday of each month:
 
 ---
 
-**기억하세요**: 완벽보다 완성! 공유가 성장의 지름길! 🚀
+**기억하세요**: 완벽보다 완성! 공유가 성장의 지름길! 🚀 
