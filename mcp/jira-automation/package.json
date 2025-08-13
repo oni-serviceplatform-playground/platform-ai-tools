@@ -1,0 +1,22 @@
+{
+  "name": "jira-automation-mcp",
+  "version": "1.0.0",
+  "description": "Jira automation MCP server",
+  "main": "build/index.js",
+  "type": "module",
+  "bin": {
+    "jira-automation-mcp": "build/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js",
+    "dev": "tsc --watch"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
