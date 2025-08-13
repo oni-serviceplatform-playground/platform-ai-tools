@@ -42,7 +42,7 @@
 - Priority presentation next week
 - Record in team wiki
 
-## 💬 Slack Sharing Format
+## 💬 Google Meet Chat Sharing Format
 
 For those who can't attend:
 ```
@@ -131,7 +131,7 @@ Last Friday of each month:
 - 다음 주 발표 우선권
 - 팀 위키에 기록
 
-## 💬 슬랙 공유 형식
+## 💬 Google Meet 채팅 공유 형식
 
 참석 못하는 경우:
 ```

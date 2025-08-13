@@ -55,12 +55,12 @@ git push
 ## 📚 Helpful Resources
 - **Quick Guide**: `docs/quick-guide.md`
 - **Example Templates**: `templates/` folder
-- **Questions**: Slack #ai-tools channel
+- **Questions**: Google Meet discussions
 
 ## 🎉 AI Tools Friday
 - **Time**: Friday 2 PM (1 hour)
 - **Format**: 5-minute presentation each + Q&A
-- **Can't attend**: Share code link in Slack
+- **Can't attend**: Share code link in Google Meet chat
 
 ## 🏆 This Week's Ideas
 - Jira issue auto-creation
@@ -76,7 +76,7 @@ Let's build together! 🚀
 
 ---
 
-**Slack**: #ai-tools | **GitHub**: [platform-ai-tools](https://github.com/oni-serviceplatform-playground/platform-ai-tools)
+**Google Meet**: Team discussions | **GitHub**: [platform-ai-tools](https://github.com/oni-serviceplatform-playground/platform-ai-tools)
 
 ---
 
@@ -137,12 +137,12 @@ git push
 ## 📚 도움될 자료
 - **1분 가이드**: `docs/quick-guide.md`
 - **예제 템플릿**: `templates/` 폴더
-- **질문**: Slack #ai-tools 채널
+- **질문**: Google Meet 토론
 
 ## 🎉 AI Tools Friday
 - **시간**: 금요일 오후 2시 (1시간)
 - **형식**: 5분씩 각자 발표 + 질문
-- **참석 못하면**: 슬랙에 코드 링크만 공유
+- **참석 못하면**: Google Meet 채팅에 코드 링크 공유
 
 ## 🏆 이번 주 아이디어
 - Jira 이슈 자동 생성
@@ -158,4 +158,4 @@ git push
 
 ---
 
-**Slack**: #ai-tools | **GitHub**: [platform-ai-tools](https://github.com/oni-serviceplatform-playground/platform-ai-tools)
+**Google Meet**: Team discussions | **GitHub**: [platform-ai-tools](https://github.com/oni-serviceplatform-playground/platform-ai-tools)

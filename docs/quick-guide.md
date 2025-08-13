@@ -75,7 +75,7 @@ git push
 - Failure is also experience!
 
 ## 🆘 Help
-- Slack: #ai-tools
+- Google Meet: Team discussions
 - Examples: See `templates/` folder
 
 ---
@@ -157,5 +157,5 @@ git push
 - 실패해도 경험!
 
 ## 🆘 도움말
-- Slack: #ai-tools
+- Google Meet: 팀 토론
 - 예제: `templates/` 폴더 참고

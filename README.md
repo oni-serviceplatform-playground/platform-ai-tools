@@ -116,7 +116,7 @@ cd mcp/my-awesome-tool/
 
 ## 💬 Contact
 
-- Slack: #ai-tools channel
+- Google Meet: Team discussions
 - Issues: [GitHub Issues](https://github.com/oni-serviceplatform-playground/platform-ai-tools/issues)
 
 ---
@@ -243,7 +243,7 @@ cd mcp/my-awesome-tool/
 
 ## 💬 문의
 
-- Slack: #ai-tools 채널
+- Google Meet: 팀 토론
 - 이슈: [GitHub Issues](https://github.com/oni-serviceplatform-playground/platform-ai-tools/issues)
 
 ---
