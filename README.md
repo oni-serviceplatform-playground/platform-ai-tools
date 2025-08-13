@@ -1,6 +1,133 @@
-# 팀 AI 도구 개발 프로젝트 🚀
+# Platform AI Tools Project 🚀
 
-> Claude Code를 위한 우리 팀만의 MCP, Agent, Command 만들기
+> Building custom MCP servers, Agents, and Commands for Claude Code
+
+## 📋 Project Overview
+
+A collaborative collection of AI tools created by our team members, with one new tool added each week.
+An automation tool library built together by 10 team members!
+
+## 🎯 Goals
+
+- **Start Simple**: Begin with 10-50 lines of code
+- **Be Practical**: Create tools that are actually useful for daily work
+- **Work Together**: Share and improve each other's code
+
+## 📁 Project Structure
+
+```
+platform-ai-tools/
+├── mcp/
+│   ├── jira-automation/     # Jira automation tools
+│   ├── db-query/           # Database query tools  
+│   └── log-analyzer/       # Log analysis tools
+├── agents/
+│   ├── code-reviewer.md    # Code review specialist
+│   ├── sql-expert.md       # SQL writing assistant
+│   └── test-writer.md      # Test case generator
+├── commands/
+│   ├── deploy.sh           # Deployment scripts
+│   ├── db-backup.sh        # Database backup
+│   └── jira-quick.sh       # Quick Jira creation
+├── templates/              # Starting templates
+├── docs/                   # Guide documents
+└── CONTRIBUTORS.md         # Contributors list
+```
+
+## 🚀 Quick Start
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/oni-serviceplatform-playground/platform-ai-tools.git
+cd platform-ai-tools
+```
+
+### 2. Choose a Template
+- [MCP Template](./templates/mcp/)
+- [Agent Template](./templates/agent/)
+- [Command Template](./templates/command/)
+
+### 3. Create Your Tool
+```bash
+# Example: Creating an MCP
+cp -r templates/mcp/hello-world mcp/my-awesome-tool/
+cd mcp/my-awesome-tool/
+# Edit code...
+
+# Add author info (at top of file)
+# @author: John Doe
+# @date: 2025-01-13
+```
+
+## 📅 Weekly Schedule
+
+| Week | Theme | Goal |
+|------|-------|------|
+| Week 1 | Hello World | Create your first working tool |
+| Week 2 | Work Tools | Build something actually useful |
+| Week 3 | Combinations | Connect tools together |
+| Week 4 | Team Library | Select top 5 tools |
+
+## 🏆 This Week's Highlights
+
+> Updated every Friday! See [Contributors List](./CONTRIBUTORS.md)
+
+## 💡 Idea Bank
+
+### MCP Ideas
+- [ ] Jira issue auto-generator
+- [ ] Team database query tool
+- [ ] Log analyzer
+- [ ] API testing tool
+
+### Agent Ideas  
+- [ ] PR review checklist
+- [ ] Daily report generator
+- [ ] Test case generator
+- [ ] Documentation automation
+
+### Command Ideas
+- [ ] Project setup commands
+- [ ] Deployment scripts
+- [ ] Code formatter
+- [ ] Debugging helpers
+
+## 📚 Resources
+
+- [Claude Code Official Docs](https://docs.anthropic.com/en/docs/claude-code)
+- [MCP SDK Documentation](https://github.com/modelcontextprotocol/sdk)
+- [Our Team Guide](./docs/guide.md)
+
+## 🤝 How to Contribute
+
+1. Create your branch: `git checkout -b feat/[tool-name]`
+2. Develop tool (add author comment at top of file)
+3. Create PR (include "by @name" in commit message)
+4. Present at Friday sharing session (5 minutes)
+
+### Author Attribution Rules
+```javascript
+/**
+ * Tool description
+ * @author John Doe
+ * @date 2025-01-13
+ */
+```
+
+## 💬 Contact
+
+- Slack: #ai-tools channel
+- Issues: [GitHub Issues](https://github.com/oni-serviceplatform-playground/platform-ai-tools/issues)
+
+---
+
+**Let's build together! 🎉**
+
+---
+
+# 플랫폼 AI 도구 프로젝트 🚀
+
+> Claude Code를 위한 우리 팀만의 MCP 서버, Agent, Command 만들기
 
 ## 📋 프로젝트 소개
 
@@ -16,7 +143,7 @@
 ## 📁 프로젝트 구조
 
 ```
-team-ai-tools/
+platform-ai-tools/
 ├── mcp/
 │   ├── jira-automation/     # Jira 자동화 도구
 │   ├── db-query/           # DB 쿼리 도구  
@@ -38,8 +165,8 @@ team-ai-tools/
 
 ### 1. 레포지토리 클론
 ```bash
-git clone https://github.com/[your-team]/team-ai-tools.git
-cd team-ai-tools
+git clone https://github.com/oni-serviceplatform-playground/platform-ai-tools.git
+cd platform-ai-tools
 ```
 
 ### 2. 템플릿 선택
@@ -117,7 +244,7 @@ cd mcp/my-awesome-tool/
 ## 💬 문의
 
 - Slack: #ai-tools 채널
-- 이슈: [GitHub Issues](https://github.com/[your-team]/team-ai-tools/issues)
+- 이슈: [GitHub Issues](https://github.com/oni-serviceplatform-playground/platform-ai-tools/issues)
 
 ---
 

@@ -1,3 +1,96 @@
+# 🎤 Weekly Sharing Session Guide
+
+## 📅 Schedule
+- **Every Friday at 4 PM**
+- **Duration**: 15-20 minutes
+- **Location**: Meeting room or online (Zoom/Meet)
+
+## ⏱️ Time Allocation
+
+### Part 1: Weekly Tool Presentations (10 minutes)
+- 2-3 people present for 3 minutes each
+- Others share links in Slack
+
+### Part 2: Next Week Ideas (5 minutes)
+- Share what you want to build next week
+- Collaboration proposals ("Who wants to build together?")
+
+## 📝 Presentation Template
+
+### 30 seconds: Introduction
+"I built a [tool type] for [purpose]"
+
+### 1 minute: Demo
+- Show actual functionality
+- Or explain key code parts
+
+### 30 seconds: Learnings
+- What was challenging
+- How you solved it
+- Where you need help
+
+## 🏆 Voting & Awards
+
+### Weekly Best Selection
+- 👍 Most Practical Tool
+- 🎨 Most Creative Tool
+- 📚 Most Educational Tool
+
+### Rewards
+- ⭐ Mark in GitHub repo
+- Priority presentation next week
+- Record in team wiki
+
+## 💬 Slack Sharing Format
+
+For those who can't attend:
+```
+🔧 [Tool Type]: [Tool Name]
+📝 Description: [One-line description]
+💻 Code: [GitHub link]
+🎯 Usage: [Simple usage example]
+💡 Next time: [What you want to improve]
+```
+
+## 🤝 Session Rules
+
+### DO ✅
+- Share failures too (lots to learn!)
+- Ask questions welcome
+- Suggest improvements
+- Applause and encouragement
+
+### DON'T ❌
+- Criticize code quality
+- "Why didn't you do it this way?"
+- Too technical discussions
+- Going over time
+
+## 📊 Monthly Summary
+
+Last Friday of each month:
+- Select TOP 5 of the month
+- Decide which tools become official team tools
+- Set next month's theme
+
+## 🎉 Special Events
+
+### Quarterly Hackathon
+- Half-day focused development
+- Team collaboration
+- External presentation opportunities
+
+### Year-end Awards
+- Tool of the Year
+- Most Contributions
+- Rookie Award
+
+---
+
+**Remember**: Completion over perfection! Sharing is the shortcut to growth! 🚀
+
+---
+
 # 🎤 주간 공유 세션 가이드
 
 ## 📅 일정

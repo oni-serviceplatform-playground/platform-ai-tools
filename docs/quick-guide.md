@@ -1,3 +1,79 @@
+# 🚀 1-Minute Guide
+
+## What are MCP, Agent, and Command?
+
+### 🔧 MCP (Model Context Protocol)
+- Server that connects Claude Code to external tools
+- Examples: Database queries, API calls, file processing
+- **Difficulty**: ⭐⭐⭐ (Intermediate)
+
+### 🤖 Agent
+- Specialist Claude for specific tasks
+- Written as markdown files (`.md`)
+- Examples: Code review expert, SQL writing assistant
+- **Difficulty**: ⭐ (Easy)
+
+### ⚡ Command
+- Scripts to automate frequent tasks
+- Written in shell script or Python
+- Examples: Deployment scripts, batch processing
+- **Difficulty**: ⭐⭐ (Medium)
+
+## 🎯 This Week's Mission (Choose One)
+
+### Option 1: Create Agent (Recommended! 👍)
+```markdown
+# My Helper Agent
+# @author: John Doe
+# @date: 2025-01-13
+
+You are a [role]. When asked to [task], you should:
+1. [First thing to do]
+2. [Second thing to do]
+```
+File name: `agents/team-helper.md`
+
+### Option 2: Create Command
+```bash
+#!/bin/bash
+# @author: John Doe
+# @date: 2025-01-13
+
+echo "Starting task..."
+# Commands here
+echo "Done!"
+```
+File name: `commands/deploy-helper.sh`
+
+### Option 3: Create MCP
+Copy template and modify:
+```bash
+cp -r templates/mcp/hello-world mcp/jira-automation/
+# Add author info at top of index.js file
+```
+
+## 📤 How to Submit
+
+1. Create file (add author comment at top!)
+2. Push to Git
+```bash
+git add .
+git commit -m "feat: Add Jira automation tool by @johndoe"
+git push
+```
+3. Friday sharing (optional)
+
+## 💡 Tips
+- Copying/modifying others' code is OK
+- Even 10 lines is enough
+- Failure is also experience!
+
+## 🆘 Help
+- Slack: #ai-tools
+- Examples: See `templates/` folder
+
+---
+
 # 🚀 1분 가이드
 
 ## MCP, Agent, Command가 뭔가요?

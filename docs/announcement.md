@@ -1,4 +1,86 @@
-# 📢 [팀 AI 도구 만들기] 주 1개씩 도전!
+# 📢 [Platform AI Tools] Weekly Challenge - Build One Tool Each Week!
+
+Hello team! 👋
+
+Let's supercharge our Claude Code experience by building custom tools together.
+**One tool per week, starting simple!**
+
+## 📌 Rules
+- Submit **1 tool** each week by **Friday**: MCP/Agent/Command
+- Keep it simple: **10-50 lines** of code is perfect
+- **Failure is OK** - trying is what matters!
+- Feel free to copy/modify others' code 🤝
+
+## 🎯 This Week's Mission (Choose One)
+
+### 1️⃣ Create an Agent (Easiest! ⭐)
+- Build a specialist Claude for specific tasks
+- Just write one markdown file!
+- Examples: Code review helper, SQL writing assistant
+
+### 2️⃣ Create a Command (Practical! ⭐⭐)
+- Automate repetitive tasks
+- Write in bash or Python
+- Examples: Deployment script, Jira issue creator
+
+### 3️⃣ Create an MCP (Challenging! ⭐⭐⭐)
+- Connect Claude to external tools
+- Templates provided (just copy and modify!)
+- Examples: Database queries, API calls
+
+## 💡 Quick Start
+
+```bash
+# 1. Clone repository
+git clone https://github.com/oni-serviceplatform-playground/platform-ai-tools.git
+
+# 2. Check examples
+ls templates/
+
+# 3. Create your tool (Agent example)
+cat > agents/code-reviewer.md << EOF
+# Code Review Helper
+# @author: John Doe
+# @date: 2025-01-13
+
+You are a code review expert...
+EOF
+
+# 4. Submit
+git add . 
+git commit -m "feat: Add code review Agent by @johndoe"
+git push
+```
+
+## 📚 Helpful Resources
+- **Quick Guide**: `docs/quick-guide.md`
+- **Example Templates**: `templates/` folder
+- **Questions**: Slack #ai-tools channel
+
+## 🎉 Friday Sharing Session
+- **Time**: Friday 4 PM (15 minutes)
+- **Format**: 5-minute presentation + Q&A
+- **Can't attend**: Share code link in Slack
+
+## 🏆 This Week's Ideas
+- Jira issue auto-creation
+- Daily standup summaries
+- Log error finder
+- Test code generator
+- PR checklist
+- Database query templates
+
+## Let's Start!
+No need to be perfect. **10 working lines** is enough.
+Let's build together! 🚀
+
+---
+
+**Slack**: #ai-tools | **GitHub**: [platform-ai-tools](https://github.com/oni-serviceplatform-playground/platform-ai-tools)
+
+---
+
+# 📢 [플랫폼 AI 도구] 주 1개씩 도전!
 
 안녕하세요 팀원 여러분! 👋
 
@@ -32,7 +114,7 @@ Claude Code를 더 강력하게 만들어줄 우리 팀만의 도구를 만들�
 
 ```bash
 # 1. 레포 클론
-git clone https://github.com/[our-team]/team-ai-tools.git
+git clone https://github.com/oni-serviceplatform-playground/platform-ai-tools.git
 
 # 2. 예제 확인
 ls templates/
@@ -76,4 +158,4 @@ git push
 
 ---
 
-**Slack**: #ai-tools | **GitHub**: [team-ai-tools](https://github.com/[our-team]/team-ai-tools)
+**Slack**: #ai-tools | **GitHub**: [platform-ai-tools](https://github.com/oni-serviceplatform-playground/platform-ai-tools)

@@ -1,6 +1,84 @@
+# 🏆 Contributors List
+
+> Meet the creators of our Platform AI Tools!
+
+## 📅 Week 3, January 2025
+
+### ✨ New Tools This Week
+
+| Tool Name | Type | Creator | Description |
+|-----------|------|---------|-------------|
+| jira-automation | MCP | @johnsmith | Auto-create/query Jira issues |
+| code-reviewer | Agent | @janelee | PR code review checklist |
+| deploy | Command | @mikejones | One-click deployment script |
+
+### 🌟 This Week's Highlights
+- **Most Practical**: jira-automation (used 5+ times daily!)
+- **Most Creative**: code-reviewer (AI reviewer!)
+- **Simplest**: deploy (just 15 lines!)
+
+---
+
+## 📊 Cumulative Stats
+
+### Tools by Contributors
+
+#### MCP Servers
+- `jira-automation/` - @johnsmith (2025-01-13)
+- `db-query/` - @chriswilson (2025-01-20)
+- `log-analyzer/` - @sarahkim (2025-01-27)
+
+#### Agents
+- `code-reviewer.md` - @janelee (2025-01-13)
+- `sql-expert.md` - @amychen (2025-01-20)
+- `test-writer.md` - @davidpark (2025-01-27)
+
+#### Commands
+- `deploy.sh` - @mikejones (2025-01-13)
+- `db-backup.sh` - @lisawang (2025-01-20)
+- `jira-quick.sh` - @tomtaylor (2025-01-27)
+
+### 🏅 Hall of Fame
+
+#### Top Contributors
+1. 🥇 @johnsmith - 5 tools
+2. 🥈 @janelee - 4 tools
+3. 🥉 @mikejones - 3 tools
+
+#### Most Popular Tools
+1. ⭐ jira-automation (Usage: 127 times)
+2. ⭐ code-reviewer (Usage: 89 times)
+3. ⭐ deploy.sh (Usage: 76 times)
+4. ⭐ sql-expert (Usage: 45 times)
+5. ⭐ db-query (Usage: 32 times)
+
+---
+
+## 💬 Contributor Comments
+
+> "Started tough but templates made it easy!" - @johnsmith
+
+> "Agents are so simple - just one MD file!" - @janelee
+
+> "Having our own tools makes work so much easier" - @mikejones
+
+---
+
+## 🎯 Next Week Preview
+
+- **Theme**: Test Automation
+- **Goal**: Each person builds 1 testing-related tool
+- **Special Event**: Pair programming session
+
+---
+
+_Last updated: 2025-01-13_
+
+---
+
 # 🏆 기여자 목록
 
-> 우리 팀의 AI 도구 제작자들을 소개합니다!
+> 우리 플랫폼 AI 도구 제작자들을 소개합니다!
 
 ## 📅 2025년 1월 3주차
 
