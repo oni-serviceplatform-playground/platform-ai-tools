@@ -1,0 +1,13 @@
+{
+  "name": "hello-world-mcp",
+  "version": "1.0.0",
+  "description": "간단한 MCP 서버 예제",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.2"
+  }
+}

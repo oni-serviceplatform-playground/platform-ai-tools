@@ -1,0 +1,10 @@
+{
+  "name": "pr-checklist-agent",
+  "version": "1.0.0",
+  "description": "PR 체크리스트 자동 생성 Agent",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
