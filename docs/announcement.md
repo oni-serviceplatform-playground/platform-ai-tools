@@ -58,7 +58,7 @@ git push
 - **Questions**: Google Meet discussions
 
 ## 🎉 AI Tools Friday
-- **Time**: Friday 2 PM (1 hour)
+- **Time**: Friday 1 PM (1 hour)
 - **Format**: 5-minute presentation each + Q&A
 - **Can't attend**: Share code link in Google Meet chat
 
@@ -143,7 +143,7 @@ git push
 - **질문**: Google Meet 토론
 
 ## 🎉 AI Tools Friday
-- **시간**: 금요일 오후 2시 (1시간)
+- **시간**: 금요일 오후 1시 (1시간)
 - **형식**: 5분씩 각자 발표 + 질문
 - **참석 못하면**: Google Meet 채팅에 코드 링크 공유
 

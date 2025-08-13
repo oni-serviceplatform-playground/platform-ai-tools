@@ -1,7 +1,7 @@
 # 🎤 AI Tools Friday Guide
 
 ## 📅 Schedule
-- **Every Friday at 2 PM**
+- **Every Friday at 1 PM**
 - **Duration**: 1 hour
 - **Location**: Meeting room or online (Zoom/Meet)
 
@@ -90,7 +90,7 @@ Last Friday of each month:
 # 🎤 AI Tools Friday 가이드
 
 ## 📅 일정
-- **매주 금요일 오후 2시**
+- **매주 금요일 오후 1시**
 - **총 1시간**
 - **장소**: 회의실 or 온라인 (Zoom/Meet)
 
