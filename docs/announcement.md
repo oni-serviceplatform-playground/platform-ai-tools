@@ -19,13 +19,13 @@ Let's supercharge our Claude Code experience by building custom tools together.
 - Examples: Code review helper, SQL writing assistant
 
 ### 2️⃣ Create a Command (Practical! ⭐⭐)
-- Automate repetitive tasks
-- Write in bash or Python
-- Examples: Deployment script, Jira issue creator
+- Automate repetitive tasks with slash commands
+- Write as Markdown files with frontmatter
+- Examples: `/deploy`, `/jira-create`, `/code-review`
 
 ### 3️⃣ Create an MCP (Challenging! ⭐⭐⭐)
 - Connect Claude to external tools
-- Templates provided (just copy and modify!)
+- Templates in `templates/mcp/hello-world/`
 - Examples: Database queries, API calls
 
 ## 💡 Quick Start
@@ -101,13 +101,13 @@ Claude Code를 더 강력하게 만들어줄 우리 팀만의 도구를 만들�
 - 예: 코드 리뷰 도우미, SQL 작성 도우미
 
 ### 2️⃣ Command 만들기 (실용적! ⭐⭐)
-- 반복 작업 자동화 스크립트
-- bash나 Python으로 작성
-- 예: 배포 스크립트, Jira 이슈 생성
+- 슬래시 명령어로 반복 작업 자동화
+- 마크다운 파일로 작성 (frontmatter 포함)
+- 예: `/deploy`, `/jira-create`, `/code-review`
 
 ### 3️⃣ MCP 만들기 (도전적! ⭐⭐⭐)
 - Claude와 외부 도구 연결
-- 템플릿 제공됨 (복사해서 수정만!)
+- 템플릿: `templates/mcp/hello-world/`
 - 예: DB 조회, API 호출
 
 ## 💡 바로 시작하기

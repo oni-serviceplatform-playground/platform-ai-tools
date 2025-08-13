@@ -33,17 +33,23 @@ You are a [role]. When asked to [task], you should:
 ```
 File name: `agents/team-helper.md`
 
-### Option 2: Create Command
-```bash
-#!/bin/bash
+### Option 2: Create Command (Recommended! 👍)
+```markdown
+---
+name: "My Helper Command"
+description: "Automate repetitive tasks"
+allowed_tools: ["Bash", "Read"]
+---
+
+# My Helper Command
 # @author: John Doe
 # @date: 2025-01-13
 
-echo "Starting task..."
-# Commands here
-echo "Done!"
+This command helps automate [task description].
+
+Use by typing `/my-helper` in Claude Code.
 ```
-File name: `commands/deploy-helper.sh`
+File name: `commands/my-helper.md`
 
 ### Option 3: Create MCP
 Copy template and modify:
@@ -109,17 +115,23 @@ You are a [역할]. When asked to [작업], you should:
 ```
 파일명: `agents/team-helper.md`
 
-### 옵션 2: Command 만들기
-```bash
-#!/bin/bash
+### 옵션 2: Command 만들기 (추천! 👍)
+```markdown
+---
+name: "내 도움 명령어"
+description: "반복 작업 자동화"
+allowed_tools: ["Bash", "Read"]
+---
+
+# My Helper Command
 # @author: 홍길동
 # @date: 2025-01-13
 
-echo "작업 시작..."
-# 여기에 명령어들
-echo "완료!"
+이 명령어는 [작업 설명]을 자동화합니다.
+
+Claude Code에서 `/my-helper` 입력하여 사용.
 ```
-파일명: `commands/deploy-helper.sh`
+파일명: `commands/my-helper.md`
 
 ### 옵션 3: MCP 만들기
 템플릿 복사 후 수정:
