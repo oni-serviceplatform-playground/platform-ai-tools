@@ -69,6 +69,9 @@ git push
 - Test code generator
 - PR checklist
 - Database query templates
+- Claude Code tips & shortcuts guide
+- Useful MCP servers collection (filesystem, GitHub, etc.)
+- Team best practices documentation
 
 ## Let's Start!
 No need to be perfect. **10 working lines** is enough.
@@ -151,6 +154,9 @@ git push
 - 테스트 코드 생성
 - PR 체크리스트
 - DB 쿼리 템플릿
+- Claude Code 단축키 & 팁 가이드
+- 유용한 MCP 서버 모음 (filesystem, GitHub 등)
+- 팀 베스트 프랙티스 문서화
 
 ## 시작이 반!
 완벽할 필요 없어요. **동작하는 10줄**이면 충분합니다.
