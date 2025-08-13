@@ -1,4 +1,4 @@
-# 🎤 Weekly Sharing Session Guide
+# 🎤 AI Tools Friday Guide
 
 ## 📅 Schedule
 - **Every Friday at 2 PM**
@@ -87,7 +87,7 @@ Last Friday of each month:
 
 ---
 
-# 🎤 주간 공유 세션 가이드
+# 🎤 AI Tools Friday 가이드
 
 ## 📅 일정
 - **매주 금요일 오후 2시**

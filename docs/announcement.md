@@ -57,9 +57,9 @@ git push
 - **Example Templates**: `templates/` folder
 - **Questions**: Slack #ai-tools channel
 
-## 🎉 Friday Sharing Session
-- **Time**: Friday 4 PM (15 minutes)
-- **Format**: 5-minute presentation + Q&A
+## 🎉 AI Tools Friday
+- **Time**: Friday 2 PM (1 hour)
+- **Format**: 5-minute presentation each + Q&A
 - **Can't attend**: Share code link in Slack
 
 ## 🏆 This Week's Ideas
@@ -139,9 +139,9 @@ git push
 - **예제 템플릿**: `templates/` 폴더
 - **질문**: Slack #ai-tools 채널
 
-## 🎉 금요일 공유 세션
-- **시간**: 금요일 오후 4시 (15분)
-- **형식**: 5분 발표 + 질문
+## 🎉 AI Tools Friday
+- **시간**: 금요일 오후 2시 (1시간)
+- **형식**: 5분씩 각자 발표 + 질문
 - **참석 못하면**: 슬랙에 코드 링크만 공유
 
 ## 🏆 이번 주 아이디어
